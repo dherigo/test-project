@@ -1,0 +1,8 @@
+# API 키 등 비밀 값 — GitHub에 올리지 않습니다
+.env.local
+.env*.local
+
+# 도구가 만드는 폴더
+node_modules/
+.next/
+*.tsbuildinfo
